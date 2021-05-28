@@ -1,0 +1,5 @@
+physical_or_mental(mental).
+aptitute(no). 
+tech_or_nontech(nontech). 
+traveller_nontraveller(traveller). 
+creative_and_innovative(yes). 
